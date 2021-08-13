@@ -1,16 +1,16 @@
 const CONFIG = {
-    introTitle: ' cậu à!',
-    introDesc: `Từ khi gặp cậu tớ đã biết yêu...`,
+    introTitle: ' Em à!',
+    introDesc: `Anh đã yêu em từ bao giờ.Anh cũng không biết nữa`,
     btnIntro: 'hihi',
-    title: 'Phải chăng tớ đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng tớ đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích cậu <33',
+    title: 'làm thế nào để anh ngừng yêu em',
+    desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
+    btnYes: 'Vẫn cứ là thích em <33',
     btnNo: 'Không, chàng trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao tớ lại yêu cậu <3',
-    btnReply: 'Gửi cho cậu  <3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao tớ lại yêu em <3',
+    btnReply: 'Gửi cho em  <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'tớ biết mà 🥰. Yêu cậu nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h tớ qua đón nhé công chúa.',
+    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
     btnAccept: 'Okiiiii lun iu iu<3',
-    messLink: 'https://www.facebook.com/kulls.links/' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/nguyenss.nam.75' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }

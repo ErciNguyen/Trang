@@ -11,6 +11,6 @@ const CONFIG = {
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Thương Nhi nhiều nhiều 😘😘',
     messDesc: 'Chú muốn nói.....Nhi đáng ghét!!!!, đáng yêu😘😘😘',
-    btnAccept: 'Nhi cũng yêu Chú iuiu ',
+    btnAccept: 'Nhi cũng yêu Chú iuiu',
     messLink: 'https://www.facebook.com/kulls.links' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }

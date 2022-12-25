@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: ' Giang Anh!',
-    introDesc: `Chúng ta biết nhau được bao lâu rui nhỉ. Anh không biết nữa.`,
+    introDesc: `Chúng ta biết nhau được bao lâu rui nhỉ.Anh không biết nữa.`,
     btnIntro: 'hihi',
     title: 'I want to see you every day',
     desc: 'Phải chăng anh đã say ngay từ lúc thấy sự dễ thương ấy. ',
